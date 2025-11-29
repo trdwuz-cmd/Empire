@@ -1,2 +1,3 @@
 # Empire
-Servidor semi anárquico (proibido cpvp)
+Servidor semi anárquico 
+(proibido cpvp)
